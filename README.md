@@ -1,6 +1,10 @@
-# Présentation du cabinet
+<h1 align="center">
+  <img src="https://www.e3conseil.com/assets/images/logo/E3-Logo-Web.jpg" alt="e³conseil logo" width="100"> 
+  <br>
+  Présentation du cabinet
+</h1>
 
-![e³conseil logo](https://www.e3conseil.com/fr/ "e³conseil logo")
+
 
 Cabinet d'audit et de stratégie, E3 Conseil est le spécialiste du conseil en matière de gestion des éco-contributions versées aux éco-organismes de l'ensemble des filières de déchets, dites filières de Responsabilité élargie des producteurs (REP), en France et en Europe.
 
@@ -16,6 +20,9 @@ Le cabinet est certifié ISQ/OPQCM depuis [date] et référencé en tant que bur
 
 
 [Visiter notre site web](https://e3conseil.com/fr)
+
 [notre twitter](https://twitter.com/E3CONSEIL)
+
 [notre facebook](https://www.facebook.com/e3conseil)
+
 [notre chaine Youtube](https://youtube.com/e3conseil)
